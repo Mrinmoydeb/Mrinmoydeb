@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mrinmoydeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mrinmoydeb" height="30" width="40" /></a>
-<a href="https://twitter.com/mrinmoydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrinmoydev" height="30" width="40" /></a>
+<a href="https://twitter.com/mrinmoyDev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrinmoydev" height="30" width="40" /></a>
 <a href="https://instagram.com/mrinmoy_deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrinmoy_deb" height="30" width="40" /></a>
 </p>
 
